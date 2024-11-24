@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Artificial-Intelligence-Application-Labratory-Website/static/css/main.bfb6ba43.css",
-    "main.js": "/Artificial-Intelligence-Application-Labratory-Website/static/js/main.e022b89d.js",
+    "main.js": "/Artificial-Intelligence-Application-Labratory-Website/static/js/main.6533fe76.js",
     "static/js/453.547e5e14.chunk.js": "/Artificial-Intelligence-Application-Labratory-Website/static/js/453.547e5e14.chunk.js",
     "index.html": "/Artificial-Intelligence-Application-Labratory-Website/index.html",
     "main.bfb6ba43.css.map": "/Artificial-Intelligence-Application-Labratory-Website/static/css/main.bfb6ba43.css.map",
-    "main.e022b89d.js.map": "/Artificial-Intelligence-Application-Labratory-Website/static/js/main.e022b89d.js.map",
+    "main.6533fe76.js.map": "/Artificial-Intelligence-Application-Labratory-Website/static/js/main.6533fe76.js.map",
     "453.547e5e14.chunk.js.map": "/Artificial-Intelligence-Application-Labratory-Website/static/js/453.547e5e14.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.bfb6ba43.css",
-    "static/js/main.e022b89d.js"
+    "static/js/main.6533fe76.js"
   ]
 }
