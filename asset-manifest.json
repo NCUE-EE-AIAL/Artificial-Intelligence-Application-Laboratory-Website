@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Artificial-Intelligence-Application-Laboratory-Website/static/css/main.bfb6ba43.css",
-    "main.js": "/Artificial-Intelligence-Application-Laboratory-Website/static/js/main.11e9d79f.js",
-    "static/js/453.547e5e14.chunk.js": "/Artificial-Intelligence-Application-Laboratory-Website/static/js/453.547e5e14.chunk.js",
-    "index.html": "/Artificial-Intelligence-Application-Laboratory-Website/index.html",
-    "main.bfb6ba43.css.map": "/Artificial-Intelligence-Application-Laboratory-Website/static/css/main.bfb6ba43.css.map",
-    "main.11e9d79f.js.map": "/Artificial-Intelligence-Application-Laboratory-Website/static/js/main.11e9d79f.js.map",
-    "453.547e5e14.chunk.js.map": "/Artificial-Intelligence-Application-Laboratory-Website/static/js/453.547e5e14.chunk.js.map"
+    "main.css": "/Artificial-Intelligence-Application-Labratory-Website/static/css/main.bfb6ba43.css",
+    "main.js": "/Artificial-Intelligence-Application-Labratory-Website/static/js/main.1ec7ba71.js",
+    "static/js/453.547e5e14.chunk.js": "/Artificial-Intelligence-Application-Labratory-Website/static/js/453.547e5e14.chunk.js",
+    "index.html": "/Artificial-Intelligence-Application-Labratory-Website/index.html",
+    "main.bfb6ba43.css.map": "/Artificial-Intelligence-Application-Labratory-Website/static/css/main.bfb6ba43.css.map",
+    "main.1ec7ba71.js.map": "/Artificial-Intelligence-Application-Labratory-Website/static/js/main.1ec7ba71.js.map",
+    "453.547e5e14.chunk.js.map": "/Artificial-Intelligence-Application-Labratory-Website/static/js/453.547e5e14.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.bfb6ba43.css",
-    "static/js/main.11e9d79f.js"
+    "static/js/main.1ec7ba71.js"
   ]
 }
